@@ -1,0 +1,265 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://mhdSid.github.io/Ornella" resolutions="1x" timestamp="1550413750816">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="315497629" ref="typos:ld:pl:contact:pn:anima:typoposter:portfolio:hues:ls:sharpie:index"/>
+    <file name="typos.css" crc="494324484" ref="typos"/>
+    <file name="ld.css" crc="4054065447" ref="ld"/>
+    <file name="pl.css" crc="4069032951" ref="pl"/>
+    <file name="contact.css" crc="4167590518" ref="contact"/>
+    <file name="pn.css" crc="505346367" ref="pn"/>
+    <file name="anima.css" crc="4182184523" ref="anima"/>
+    <file name="typoposter.css" crc="517566303" ref="typoposter"/>
+    <file name="portfolio.css" crc="4189863424" ref="portfolio"/>
+    <file name="hues.css" crc="60317322" ref="hues"/>
+    <file name="ls.css" crc="3854819648" ref="ls"/>
+    <file name="sharpie.css" crc="494881967" ref="sharpie"/>
+    <file name="index.css" crc="211074084" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="pawlanddisplayed.pdf" crc="3882365543" seo="true" mt="1466582990000"/>
+    <file name="typoposter.pdf" crc="4077219775" seo="true" mt="1546699026000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:pn:typos:hues:anima:ld:ls:pl:sharpie:typoposter:contact"/>
+    <file name="museutils.js" crc="17924269" ref="index:portfolio:pn:typos:hues:anima:ld:ls:pl:sharpie:typoposter:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:pn:typos:hues:anima:ld:ls:pl:sharpie:typoposter:contact"/>
+    <file name="museconfig.js" crc="144853533" ref="index:portfolio:pn:typos:hues:anima:ld:ls:pl:sharpie:typoposter:contact"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:portfolio:pn:typos:hues:anima:ld:ls:pl:sharpie:typoposter:contact"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:portfolio:pn:typos:hues:anima:ld:ls:pl:sharpie:typoposter:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:pn:typos:hues:anima:ld:ls:pl:sharpie:typoposter:contact"/>
+    <file name="require.js" crc="3861931657" ref="index:portfolio:pn:typos:hues:anima:ld:ls:pl:sharpie:typoposter:contact"/>
+    <file name="webpro.js" crc="416662029" ref="portfolio:typos:ld:ls:pl:sharpie:contact"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="portfolio:typos:ld:ls:pl:sharpie"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="portfolio:typos:ld:ls:pl:sharpie"/>
+    <file name="touchswipe.js" crc="432264157" ref="portfolio:typos:ld:ls:pl:sharpie"/>
+    <file name="form_check.php" crc="4110044762" ref="contact"/>
+    <file name="form_throttle.php" crc="22190333" ref="contact"/>
+    <file name="form_process.php" crc="257545537" ref="contact"/>
+    <file name="form-u14350.php" crc="4033154914" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="universe-2947500_960_720.jpg" crc="293224030" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt="Enter Email"/>
+      <caption webpage="contact" alt="Enter Email"/>
+      <caption webpage="contact" alt="Enter Email"/>
+      <caption webpage="contact" alt="Enter Email"/>
+      <caption webpage="contact" alt="Enter Email"/>
+      <caption webpage="contact" alt="Enter Company"/>
+      <caption webpage="contact" alt="Enter Company"/>
+      <caption webpage="contact" alt="Enter Company"/>
+      <caption webpage="contact" alt="Enter Company"/>
+      <caption webpage="contact" alt="Enter Company"/>
+      <caption webpage="contact" alt="Enter Your Message"/>
+      <caption webpage="contact" alt="Enter Your Message"/>
+      <caption webpage="contact" alt="Enter Your Message"/>
+      <caption webpage="contact" alt="Enter Your Message"/>
+      <caption webpage="contact" alt="Enter Your Message"/>
+    </file>
+    <file name="2ink.png" crc="3979330247" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pnbw-crop-u7577.jpg" crc="182871870" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:typos:ld:ls:pl:sharpie"/>
+    <file name="loading.gif" crc="3815509949" ref="portfolio:typos:ld:ls:pl:sharpie"/>
+    <file name="typobw1-crop-u7811.jpg" crc="524710904" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typobw2-crop-u7831.jpg" crc="181420895" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typobw3-crop-u7851.jpg" crc="14907498" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typobw4-crop-u7871.jpg" crc="4103005673" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typobw5-crop-u7891.jpg" crc="262926429" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="huesbw1.jpg" crc="4294253827" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="huesbw2.jpg" crc="3799657635" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="huesbw3.jpg" crc="4086285495" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="theuni.png" crc="3993358757" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hues1.jpg" crc="3863094484" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hues2.jpg" crc="3943938418" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hues3.jpg" crc="288135191" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pn-crop-u11906.jpg" crc="3804927499" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typo1-crop-u13057.jpg" crc="4232458995" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typo2-crop-u13037.jpg" crc="3925501270" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typo3-crop-u13017.jpg" crc="3790813640" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typo4-crop-u12997.jpg" crc="111566316" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typo5-crop-u12977.jpg" crc="4123701315" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bw-crop-u5972.jpg" crc="4221465194" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bwm-crop-u12012.jpg" crc="4007157354" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="soapboxbw-crop-u11467.jpg" crc="359468928" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="soapbw-crop-u11494.jpg" crc="147397566" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="soapboxbw-crop-u13346.jpg" crc="359468928" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="soapbw-crop-u13348.jpg" crc="147397566" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="soapbox-crop-u14044.jpg" crc="4112656660" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="soap-crop-u14042.jpg" crc="3940915753" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ldmc2bw-crop-u5816.jpg" crc="52424446" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bwld2-crop-u5843.jpg" crc="4208198587" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="we-crop-u13412.jpg" crc="3891050275" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ldmc27-crop-u13414.png" crc="3789337836" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sharpieposterbw.jpg" crc="74007060" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sharpieposter324x458.jpg" crc="400415889" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pawlandlogopbw-crop-u4396.jpg" crc="4179945678" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pawlandbww-crop-u5057.jpg" crc="4140290843" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pawland2bw-crop-u4993.jpg" crc="439477232" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pawland1bw-crop-u4400.png" crc="240815078" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typoposterbw-crop-u9701.png" crc="16682295" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pawlandlogo-crop-u13144.png" crc="4201672515" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pawlanddisp-crop-u13146.png" crc="4198778243" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pawland2-crop-u13142.png" crc="3901011111" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pawland11-crop-u13140.jpg" crc="260818699" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="typoposter-crop-u13286.jpg" crc="4176584027" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pn-crop-u9997.png" crc="3771874174" seo="true" ref="pn">
+      <caption webpage="pn" alt=""/>
+    </file>
+    <file name="typo5-crop-u10191.png" crc="3801764265" seo="true" ref="typos">
+      <caption webpage="typos" alt=""/>
+    </file>
+    <file name="typo4-crop-u10301.png" crc="221782046" seo="true" ref="typos">
+      <caption webpage="typos" alt=""/>
+    </file>
+    <file name="typo3-crop-u10321.png" crc="4036274207" seo="true" ref="typos">
+      <caption webpage="typos" alt=""/>
+    </file>
+    <file name="typo2-crop-u10341.png" crc="488973865" seo="true" ref="typos">
+      <caption webpage="typos" alt=""/>
+    </file>
+    <file name="typo1-crop-u10361.png" crc="105749677" seo="true" ref="typos">
+      <caption webpage="typos" alt=""/>
+    </file>
+    <file name="hues1-crop-u10409.png" crc="4054762373" seo="true" ref="hues">
+      <caption webpage="hues" alt=""/>
+    </file>
+    <file name="animamockup-crop-u10078.jpg" crc="4156294441" seo="true" ref="anima">
+      <caption webpage="anima" alt=""/>
+    </file>
+    <file name="ldmc2.jpg" crc="37148291" seo="true" ref="ld">
+      <caption webpage="ld" alt=""/>
+    </file>
+    <file name="ldmc27.png" crc="4242044781" seo="true" ref="ld">
+      <caption webpage="ld" alt=""/>
+    </file>
+    <file name="soapbox-crop-u14235.jpg" crc="3990185918" seo="true" ref="ls">
+      <caption webpage="ls" alt=""/>
+    </file>
+    <file name="soap-crop-u14237.jpg" crc="4051597829" seo="true" ref="ls">
+      <caption webpage="ls" alt=""/>
+    </file>
+    <file name="pawlandlogo-crop-u10710.png" crc="173994487" seo="true" ref="pl">
+      <caption webpage="pl" alt=""/>
+    </file>
+    <file name="pawlanddisp-crop-u10809.png" crc="322944355" seo="true" ref="pl">
+      <caption webpage="pl" alt=""/>
+    </file>
+    <file name="pawland2-crop-u10914.png" crc="198104305" seo="true" ref="pl">
+      <caption webpage="pl" alt=""/>
+    </file>
+    <file name="pawland1-crop-u10908.png" crc="3846317362" seo="true" ref="pl">
+      <caption webpage="pl" alt=""/>
+    </file>
+    <file name="sharpieposter.jpg" crc="487899172" seo="true" ref="sharpie">
+      <caption webpage="sharpie" alt=""/>
+    </file>
+    <file name="typoposter-crop-u10396.png" crc="322701529" seo="true" ref="typoposter">
+      <caption webpage="typoposter" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4047604337" seo="true" mt="1549740740546" redirect="true"/>
+  <file name="portfolio.html" crc="319204286" seo="true" mt="1550341475105" redirect="true"/>
+  <file name="pn.html" crc="4090207166" seo="true" mt="1549740740546" redirect="true"/>
+  <file name="typos.html" crc="4159360794" seo="true" mt="1549740740546" redirect="true"/>
+  <file name="hues.html" crc="3888065107" seo="true" mt="1550281630525" redirect="true"/>
+  <file name="anima.html" crc="3833794138" seo="true" mt="1549740740546" redirect="true"/>
+  <file name="ld.html" crc="4288324396" seo="true" mt="1550281556111" redirect="true"/>
+  <file name="ls.html" crc="501467993" seo="true" mt="1549742097426" redirect="true"/>
+  <file name="pl.html" crc="3851373726" seo="true" mt="1549740740546" redirect="true"/>
+  <file name="sharpie.html" crc="4111090851" seo="true" mt="1550281606441" redirect="true"/>
+  <file name="typoposter.html" crc="4276979974" seo="true" mt="1550282564272" redirect="true"/>
+  <file name="contact.html" crc="465569208" seo="true" mt="1550344416132" redirect="true"/>
+</manifest>
